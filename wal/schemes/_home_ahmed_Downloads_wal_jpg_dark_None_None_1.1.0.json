@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/ahmed/Downloads/wal.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0d0201",
+        "foreground": "#a5b6cd",
+        "cursor": "#a5b6cd"
+    },
+    "colors": {
+        "color0": "#0d0201",
+        "color1": "#91360F",
+        "color2": "#A65617",
+        "color3": "#B05F3A",
+        "color4": "#CA6B1A",
+        "color5": "#D79B28",
+        "color6": "#E3C150",
+        "color7": "#a5b6cd",
+        "color8": "#737f8f",
+        "color9": "#91360F",
+        "color10": "#A65617",
+        "color11": "#B05F3A",
+        "color12": "#CA6B1A",
+        "color13": "#D79B28",
+        "color14": "#E3C150",
+        "color15": "#a5b6cd"
+    }
+}

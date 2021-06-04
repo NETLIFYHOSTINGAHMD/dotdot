@@ -1,0 +1,21 @@
+set $wallpaper /home/ahmed/Downloads/7c32942a6bc1c1e1104d58ecafa27437.jpg
+
+set $background #090302
+set $foreground #e1c890
+
+set $color0 #090302
+set $color1 #5C3E4B
+set $color2 #8F5008
+set $color3 #9F610D
+set $color4 #AF670D
+set $color5 #AD6E08
+set $color6 #D2991B
+set $color7 #e1c890
+set $color8 #9d8c64
+set $color9 #5C3E4B
+set $color10 #8F5008
+set $color11 #9F610D
+set $color12 #AF670D
+set $color13 #AD6E08
+set $color14 #D2991B
+set $color15 #e1c890

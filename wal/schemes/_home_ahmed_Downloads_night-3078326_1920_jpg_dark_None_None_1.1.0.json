@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/ahmed/Downloads/night-3078326_1920.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#020C11",
+        "foreground": "#cee4d8",
+        "cursor": "#cee4d8"
+    },
+    "colors": {
+        "color0": "#020C11",
+        "color1": "#2B5C64",
+        "color2": "#4C6163",
+        "color3": "#8DA967",
+        "color4": "#3E7886",
+        "color5": "#569E9F",
+        "color6": "#60A2A0",
+        "color7": "#cee4d8",
+        "color8": "#909f97",
+        "color9": "#2B5C64",
+        "color10": "#4C6163",
+        "color11": "#8DA967",
+        "color12": "#3E7886",
+        "color13": "#569E9F",
+        "color14": "#60A2A0",
+        "color15": "#cee4d8"
+    }
+}

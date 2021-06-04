@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/ahmed/Downloads/7c32942a6bc1c1e1104d58ecafa27437.jpg"
+let background = "#090302"
+let foreground = "#e1c890"
+let cursor     = "#e1c890"
+
+" Colors
+let color0  = "#090302"
+let color1  = "#5C3E4B"
+let color2  = "#8F5008"
+let color3  = "#9F610D"
+let color4  = "#AF670D"
+let color5  = "#AD6E08"
+let color6  = "#D2991B"
+let color7  = "#e1c890"
+let color8  = "#9d8c64"
+let color9  = "#5C3E4B"
+let color10 = "#8F5008"
+let color11 = "#9F610D"
+let color12 = "#AF670D"
+let color13 = "#AD6E08"
+let color14 = "#D2991B"
+let color15 = "#e1c890"

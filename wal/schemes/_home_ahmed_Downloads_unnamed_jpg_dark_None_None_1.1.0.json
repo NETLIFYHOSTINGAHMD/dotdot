@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/ahmed/Downloads/unnamed.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#050505",
+        "foreground": "#e0c7f3",
+        "cursor": "#e0c7f3"
+    },
+    "colors": {
+        "color0": "#050505",
+        "color1": "#474FD2",
+        "color2": "#A34ABE",
+        "color3": "#D862D8",
+        "color4": "#65B4D6",
+        "color5": "#65A6E1",
+        "color6": "#C8A7C7",
+        "color7": "#e0c7f3",
+        "color8": "#9c8baa",
+        "color9": "#474FD2",
+        "color10": "#A34ABE",
+        "color11": "#D862D8",
+        "color12": "#65B4D6",
+        "color13": "#65A6E1",
+        "color14": "#C8A7C7",
+        "color15": "#e0c7f3"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/ahmed/Downloads/alpine.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0a0d18",
+        "foreground": "#cfd9e1",
+        "cursor": "#cfd9e1"
+    },
+    "colors": {
+        "color0": "#0a0d18",
+        "color1": "#5F89AE",
+        "color2": "#669EC9",
+        "color3": "#9FA2AD",
+        "color4": "#91B5D1",
+        "color5": "#A8BDCD",
+        "color6": "#9EC0D6",
+        "color7": "#cfd9e1",
+        "color8": "#90979d",
+        "color9": "#5F89AE",
+        "color10": "#669EC9",
+        "color11": "#9FA2AD",
+        "color12": "#91B5D1",
+        "color13": "#A8BDCD",
+        "color14": "#9EC0D6",
+        "color15": "#cfd9e1"
+    }
+}

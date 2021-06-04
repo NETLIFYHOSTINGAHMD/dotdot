@@ -1,0 +1,18 @@
+#!/usr/bin/env sh
+
+while true; do
+
+        LOCALTIME=$(date | colrm 20)
+        DISKFREE=$(df -Ph | grep "/dev/sda3" | awk {'print $4'})
+	DISKUSED=$(df -Ph | grep "/dev/sda3" | awk {'print $3'})
+	MEM=$(free -m | awk 'NR==2{printf "%sMB/%sMB (%.2f%%)\n", $3,$2,$3*100/$2 }')
+	active=$(xdotool getactivewindow getwindowname)
+	uptime=$(uptime | colrm 11)
+	NET=$(iwgetid -r)
+	POWER=$(acpi | colrm 1 10)
+	cputemp=$(sed 's/000$/*C/' /sys/class/thermal/thermal_zone0/temp)
+
+	xsetroot -name "-  $LOCALTIME |$POWER | uptime:$uptime| Disk: $DISKUSED/$DISKFREE | Cpu_temp: $cputemp | Mem: $MEM | Net: $NET " 
+        
+        sleep 4s
+done &
