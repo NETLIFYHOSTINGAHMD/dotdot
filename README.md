@@ -25,6 +25,8 @@
 * place dwmstatus and other scripts in home dir (including .xinitrc and .profile) 
 * there might be a need to rename .mkshrc to .kshrc and place that file in home dir. Check if dwm or anything needs renaming to ksh 
 
+# screenshot
+![](https://0x0.st/-_cl.png)
 #### encrypt your email password with mutt
 source: https://unix.stackexchange.com/questions/20570/mutt-how-to-safely-store-password
 Create a passwords file: ~/.mutt/passwords
