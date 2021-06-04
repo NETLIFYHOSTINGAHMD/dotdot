@@ -11,6 +11,8 @@
 * iwgetid
 * uptime 
 * xsetroot
+* tor
+* proxychains
 * wal/pywal
 * compton
 * dwm
@@ -24,6 +26,9 @@
 * check if colors-wal-dwm.h is in .cache and also for the other suckless utils
 * place dwmstatus and other scripts in home dir (including .xinitrc and .profile) 
 * there might be a need to rename .mkshrc to .kshrc and place that file in home dir. Check if dwm or anything needs renaming to ksh 
+
+* this is a fairly minimal build of dwm that just tries to make the bar look clean and make pywal work seamlessly with some suckless utils 
+* window management is left to the user to configure
 
 # screenshot
 ![](https://0x0.st/-_cl.png)
