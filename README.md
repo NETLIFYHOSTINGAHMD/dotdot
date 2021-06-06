@@ -57,3 +57,4 @@ source "gpg -d ~/.mutt/passwords.gpg |"
 
 * working on a script, making pywal theming easier. 
 * implementing that script on dmenu so its even faster to switch themes
+* coming up with a solution to remove that mismatching rect on the bar as a result of the notitle patch. (that left over rect is not detected by pywal) the solution might be to add ![this patch](https://dwm.suckless.org/patches/colorbar/) this way pywal can color it i hope. But the fkn patching is cancer
