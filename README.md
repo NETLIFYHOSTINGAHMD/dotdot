@@ -51,6 +51,8 @@ Add to your muttrc: (already added)
 
 source "gpg -d ~/.mutt/passwords.gpg |"
 
+--
+
 ### todo
 
 * working on a script, making pywal theming easier. 
