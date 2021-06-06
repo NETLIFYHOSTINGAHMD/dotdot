@@ -52,7 +52,7 @@ Add to your muttrc: (already added)
 source "gpg -d ~/.mutt/passwords.gpg |"
 
 --
-
+if u want to help 
 ### todo
 
 * working on a script, making pywal theming easier. 
