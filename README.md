@@ -1,5 +1,5 @@
 # dotdot
-pushing changes in a bit
+pushing changes in a bit see [this](https://github.com/NETLIFYHOSTINGAHMD/dotdot#todo) if u want to help 
 ### programs
 
 * iosevka font
