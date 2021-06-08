@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/ahmed/styli.sh/wallpaper.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0c0f11",
+        "foreground": "#bdc1c7",
+        "cursor": "#bdc1c7"
+    },
+    "colors": {
+        "color0": "#0c0f11",
+        "color1": "#344754",
+        "color2": "#3E5361",
+        "color3": "#50616E",
+        "color4": "#576774",
+        "color5": "#6B7985",
+        "color6": "#798590",
+        "color7": "#bdc1c7",
+        "color8": "#84878b",
+        "color9": "#344754",
+        "color10": "#3E5361",
+        "color11": "#50616E",
+        "color12": "#576774",
+        "color13": "#6B7985",
+        "color14": "#798590",
+        "color15": "#bdc1c7"
+    }
+}

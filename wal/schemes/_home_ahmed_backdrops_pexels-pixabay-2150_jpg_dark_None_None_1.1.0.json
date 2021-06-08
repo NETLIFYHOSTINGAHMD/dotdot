@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/ahmed/backdrops/pexels-pixabay-2150.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0b0b0c",
+        "foreground": "#c5c1c2",
+        "cursor": "#c5c1c2"
+    },
+    "colors": {
+        "color0": "#0b0b0c",
+        "color1": "#5E5B64",
+        "color2": "#6E6B70",
+        "color3": "#887870",
+        "color4": "#968779",
+        "color5": "#747688",
+        "color6": "#837E8C",
+        "color7": "#c5c1c2",
+        "color8": "#898787",
+        "color9": "#5E5B64",
+        "color10": "#6E6B70",
+        "color11": "#887870",
+        "color12": "#968779",
+        "color13": "#747688",
+        "color14": "#837E8C",
+        "color15": "#c5c1c2"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/ahmed/backdrops/water-921067_1920.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#131210",
+        "foreground": "#d7d7d5",
+        "cursor": "#d7d7d5"
+    },
+    "colors": {
+        "color0": "#131210",
+        "color1": "#7D817C",
+        "color2": "#82837D",
+        "color3": "#7D8383",
+        "color4": "#8F918E",
+        "color5": "#9EA1A0",
+        "color6": "#ACAEAC",
+        "color7": "#d7d7d5",
+        "color8": "#969695",
+        "color9": "#7D817C",
+        "color10": "#82837D",
+        "color11": "#7D8383",
+        "color12": "#8F918E",
+        "color13": "#9EA1A0",
+        "color14": "#ACAEAC",
+        "color15": "#d7d7d5"
+    }
+}

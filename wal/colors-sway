@@ -1,0 +1,21 @@
+set $wallpaper /home/ahmed/backdrops/screen-0.jpg
+
+set $background #0A0607
+set $foreground #c7c7c4
+
+set $color0 #0A0607
+set $color1 #499E4E
+set $color2 #9F8F69
+set $color3 #D79E4B
+set $color4 #346A9F
+set $color5 #CE6590
+set $color6 #519EB7
+set $color7 #c7c7c4
+set $color8 #8b8b89
+set $color9 #499E4E
+set $color10 #9F8F69
+set $color11 #D79E4B
+set $color12 #346A9F
+set $color13 #CE6590
+set $color14 #519EB7
+set $color15 #c7c7c4

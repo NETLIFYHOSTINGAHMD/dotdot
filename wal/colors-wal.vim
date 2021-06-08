@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/ahmed/backdrops/screen-0.jpg"
+let background = "#0A0607"
+let foreground = "#c7c7c4"
+let cursor     = "#c7c7c4"
+
+" Colors
+let color0  = "#0A0607"
+let color1  = "#499E4E"
+let color2  = "#9F8F69"
+let color3  = "#D79E4B"
+let color4  = "#346A9F"
+let color5  = "#CE6590"
+let color6  = "#519EB7"
+let color7  = "#c7c7c4"
+let color8  = "#8b8b89"
+let color9  = "#499E4E"
+let color10 = "#9F8F69"
+let color11 = "#D79E4B"
+let color12 = "#346A9F"
+let color13 = "#CE6590"
+let color14 = "#519EB7"
+let color15 = "#c7c7c4"

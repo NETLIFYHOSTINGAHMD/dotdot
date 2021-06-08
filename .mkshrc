@@ -1,0 +1,9 @@
+HOST_NAME=thinkpad-x200
+TTY=$(tty|cut -f3-4 -d/)
+HISTFILE=$HOME/.sh_hist$(echo ${TTY} | tr -d '/')
+PWD=$(pwd)
+PS1='(${LOGNAME}@$HOST_NAME) ${PWD}: '
+
+alias fullupdate="doas apk update && doas apk upgrade"
+alias walmake="sh ~/wal-init.sh"
+alias walinit="wal -i"

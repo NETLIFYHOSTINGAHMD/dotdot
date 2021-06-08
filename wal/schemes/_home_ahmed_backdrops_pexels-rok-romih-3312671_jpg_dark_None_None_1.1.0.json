@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/ahmed/backdrops/pexels-rok-romih-3312671.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0F0F0E",
+        "foreground": "#9caec1",
+        "cursor": "#9caec1"
+    },
+    "colors": {
+        "color0": "#0F0F0E",
+        "color1": "#284D71",
+        "color2": "#A46709",
+        "color3": "#B89348",
+        "color4": "#2D5B85",
+        "color5": "#275D8C",
+        "color6": "#396692",
+        "color7": "#9caec1",
+        "color8": "#6d7987",
+        "color9": "#284D71",
+        "color10": "#A46709",
+        "color11": "#B89348",
+        "color12": "#2D5B85",
+        "color13": "#275D8C",
+        "color14": "#396692",
+        "color15": "#9caec1"
+    }
+}

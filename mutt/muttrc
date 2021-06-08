@@ -1,0 +1,11 @@
+
+set folder = "imaps://syedahmed@riseup.net@mail.riseup.net:993"
+
+set smtp_url = "smtp://syedahmed@riseup.net@mail.riseup.net:587"
+
+set from = "syedahmed@riseup.net"
+set realname = "Syed Ahmed"
+source "gpg -d ~/.config/mutt/passwords.gpg |"
+set spoolfile = "+INBOX"
+set record = "+Sent"
+mailboxes =INBOX =Sent 

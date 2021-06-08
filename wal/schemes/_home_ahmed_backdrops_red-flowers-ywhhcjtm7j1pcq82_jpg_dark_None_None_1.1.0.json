@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/ahmed/backdrops/red-flowers-ywhhcjtm7j1pcq82.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1c1f02",
+        "foreground": "#f4acbd",
+        "cursor": "#f4acbd"
+    },
+    "colors": {
+        "color0": "#1c1f02",
+        "color1": "#E25B63",
+        "color2": "#6E980B",
+        "color3": "#799448",
+        "color4": "#92A91C",
+        "color5": "#A2AB56",
+        "color6": "#BDB35E",
+        "color7": "#f4acbd",
+        "color8": "#aa7884",
+        "color9": "#E25B63",
+        "color10": "#6E980B",
+        "color11": "#799448",
+        "color12": "#92A91C",
+        "color13": "#A2AB56",
+        "color14": "#BDB35E",
+        "color15": "#f4acbd"
+    }
+}

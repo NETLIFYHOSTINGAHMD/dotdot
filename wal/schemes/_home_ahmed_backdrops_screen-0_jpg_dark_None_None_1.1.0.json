@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/ahmed/backdrops/screen-0.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0A0607",
+        "foreground": "#c7c7c4",
+        "cursor": "#c7c7c4"
+    },
+    "colors": {
+        "color0": "#0A0607",
+        "color1": "#499E4E",
+        "color2": "#9F8F69",
+        "color3": "#D79E4B",
+        "color4": "#346A9F",
+        "color5": "#CE6590",
+        "color6": "#519EB7",
+        "color7": "#c7c7c4",
+        "color8": "#8b8b89",
+        "color9": "#499E4E",
+        "color10": "#9F8F69",
+        "color11": "#D79E4B",
+        "color12": "#346A9F",
+        "color13": "#CE6590",
+        "color14": "#519EB7",
+        "color15": "#c7c7c4"
+    }
+}
